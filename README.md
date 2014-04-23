@@ -1,4 +1,4 @@
-# numberer [![Build Status](https://secure.travis-ci.org/safareli/numberer.png?branch=master)](http://travis-ci.org/safareli/numberer) [![NPM version](https://badge-me.herokuapp.com/api/npm/numberer.png)](http://badges.enytc.com/for/npm/numberer) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/safareli/numberer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# numberer [![Build Status](http://img.shields.io/travis/safareli/numberer.svg)](http://travis-ci.org/safareli/numberer) [![NPM version](https://badge-me.herokuapp.com/api/npm/numberer.png)](https://www.npmjs.org/package/numberer) [![Code Climate](https://codeclimate.com/github/safareli/numberer.png)](https://codeclimate.com/github/safareli/numberer)
 
 > describe numbers with other numbers and make them reactive
 
