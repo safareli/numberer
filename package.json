@@ -1,0 +1,33 @@
+{
+  "name": "numberer",
+  "description": "describe numbers with other numbers and make them reactive",
+  "version": "0.1.0",
+  "homepage": "https://github.com/safareli/numberer",
+  "author": {
+    "name": "Irakli Safareli",
+    "email": "i.safareli@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/safareli/numberer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/safareli/numberer/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/safareli/numberer/blob/master/LICENSE"
+    }
+  ],
+  "main": "lib/numberer",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --ui=tdd --reporter spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "keywords": ["react", "reactive", "number"]
+}
