@@ -1,6 +1,20 @@
-# numberer [![Build Status](http://img.shields.io/travis/safareli/numberer.svg)](http://travis-ci.org/safareli/numberer) [![NPM version](https://badge-me.herokuapp.com/api/npm/numberer.png)](https://www.npmjs.org/package/numberer) [![Code Climate](https://codeclimate.com/github/safareli/numberer.png)](https://codeclimate.com/github/safareli/numberer)
-
+# numberer [![Build Status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url] [![Code Climate][climate-image]][climate-url]
 > describe numbers with other numbers and make them reactive
+
+[![NPM numberer][nodei-image]][npm-url]
+
+[npm-url]: https://npmjs.org/package/numberer
+[npm-image]: https://badge.fury.io/js/numberer.png
+
+[travis-url]: http://travis-ci.org/safareli/numberer
+[travis-image]: http://img.shields.io/travis/safareli/numberer.svg
+
+[climate-url]: https://codeclimate.com/github/safareli/numberer
+[climate-image]: https://codeclimate.com/github/safareli/numberer.png
+
+[nodei-image]: https://nodei.co/npm-dl/numberer.png?months=1
+
+
 
 ## introduction
 Install the module with: `npm install numberer`
